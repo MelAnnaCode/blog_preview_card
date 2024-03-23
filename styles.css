@@ -3,9 +3,9 @@
 :root{
     --font: "Figtree", sans-serif;
     --font-weight: 800;
-    --heading-font-size: 160%;
-    --paragraph-font-size-m: 1.3rem;
-    --paragraph-font-size-s: 1rem;
+    --heading-font-size: 1.8rem;
+    --paragraph-font-size-m: 1.5rem;
+    --paragraph-font-size-s: 1.1rem;
 
     --row-gap: 2.4rem;
     --row-gap-half: 1.2rem;
@@ -53,7 +53,7 @@ body::-webkit-scrollbar{
 
 .blog_card{
     display: grid;
-    width: min(100%, 24rem);
+    width: min(100%, 25rem);
     border: var(--border);
     border-radius: var(--border-radius);
     background-color: var(--white);
@@ -122,7 +122,7 @@ h1{
 
 .blog_avatar{
   display: inline-block;
-  width: 2.4rem;
+  width: 2.6rem;
 }
 
 .blog_author_name {
