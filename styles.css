@@ -53,7 +53,7 @@ body::-webkit-scrollbar{
 
 .blog_card{
     display: grid;
-    width: min(100%, 25rem);
+    width: min(100%, 24rem);
     border: var(--border);
     border-radius: var(--border-radius);
     background-color: var(--white);
